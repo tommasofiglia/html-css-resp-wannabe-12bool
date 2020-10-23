@@ -44,4 +44,11 @@ box-sizing: content-box;
 }
 
 @media all and (min-width: 769px) and (max-width: 1200px) {
+
+  #p_center_medium{
+    width: 50%;
+    position: relative;
+    left: 50%;
+    transform: translatex(-50%);
+  }
 }
