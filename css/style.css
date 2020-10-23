@@ -63,4 +63,13 @@ box-sizing: content-box;
     left: 50%;
     transform: translatex(-50%);
   }
+
+  [class*="col-"]{
+      padding-bottom: 40px;
+  }
+
+  p{
+    padding-left: 20px;
+    padding-right: 20px;
+  }
 }
