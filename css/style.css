@@ -1,0 +1,21 @@
+/* utility classes */
+
+.text_center{
+  text-align: center;
+}
+
+.bg_grey{
+  background-color:#f9f9f9;
+}
+
+/* Commons */
+img{
+  height: 200px;
+}
+
+.icon{
+box-sizing: content-box;
+ background-color: #428bca;
+ border: 30px solid #428bca;
+ border-radius: 50%;
+}
